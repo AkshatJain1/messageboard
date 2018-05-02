@@ -1,0 +1,11 @@
+C:\Users\respe\source\repos\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.deps.json
+C:\Users\respe\source\repos\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.json
+C:\Users\respe\source\repos\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.runtimeconfig.dev.json
+C:\Users\respe\source\repos\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\respe\source\repos\MessageBoardBackend\bin\Debug\netcoreapp2.0\MessageBoardBackend.pdb
+C:\Users\respe\source\repos\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csprojResolveAssemblyReference.cache
+C:\Users\respe\source\repos\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.csproj.CoreCompileInputs.cache
+C:\Users\respe\source\repos\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfoInputs.cache
+C:\Users\respe\source\repos\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.AssemblyInfo.cs
+C:\Users\respe\source\repos\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.dll
+C:\Users\respe\source\repos\MessageBoardBackend\obj\Debug\netcoreapp2.0\MessageBoardBackend.pdb
